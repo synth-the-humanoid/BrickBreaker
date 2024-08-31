@@ -4,3 +4,6 @@
 
 # How to play?
 Pull the project and and run .\Build\BrickBreaker.exe. Alternatively, load the project in Unity and Build by yourself.
+
+# Video
+https://youtu.be/iKEsKHR84kg
