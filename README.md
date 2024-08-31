@@ -3,4 +3,4 @@
 
 
 # How to play?
-Download the contents of the Build folder and run BrickBreaker.exe. Alternatively, load the project in Unity and Build by yourself.
+Pull the project and and run .\Build\BrickBreaker.exe. Alternatively, load the project in Unity and Build by yourself.
